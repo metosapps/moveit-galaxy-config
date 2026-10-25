@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://metosapps.github.io/moveit-galaxy-config/sitemap.xml
