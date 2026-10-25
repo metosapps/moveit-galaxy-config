@@ -2,7 +2,7 @@
   "schema_version": 1,
   "package_name": "com.moveit.app.gx",
   "store": "galaxy_store",
-  "revision": 1,
+  "revision": 2,
   "expires_at_epoch_ms": 0,
   "values": {
     "ads_enabled": false,
@@ -19,7 +19,7 @@
     "iap_enabled": true,
     "galaxy_release_available": false,
     "minimum_supported_version_code": 0,
-    "latest_version_code": 1,
+    "latest_version_code": 2,
     "update_mode": "none",
     "maintenance_message": "",
     "feature_announcement": "",
@@ -31,6 +31,12 @@
     "support_email": "chennoufo11@gmail.com",
     "privacy_url": "https://metosapps.github.io/moveit-galaxy-config/privacy.html",
     "terms_url": "https://metosapps.github.io/moveit-galaxy-config/terms.html",
-    "help_url": "https://metosapps.github.io/moveit-galaxy-config/help.html"
+    "help_url": "https://metosapps.github.io/moveit-galaxy-config/help.html",
+    "interstitial_ads_enabled": false,
+    "admob_interstitial_unit_id": "",
+    "admob_app_open_unit_id": "",
+    "interstitial_min_clicks": 3,
+    "interstitial_max_clicks": 4,
+    "fullscreen_min_interval_seconds": 30
   }
 }
